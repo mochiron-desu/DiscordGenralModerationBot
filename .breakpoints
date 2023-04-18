@@ -1,0 +1,12 @@
+{
+  "files": {
+    "commands/moderation/ban.js": [
+      {
+        "id": "fffbe81d-149b-4c99-b7b3-706a6ff859f0",
+        "line": 13,
+        "version": 223,
+        "index": 533
+      }
+    ]
+  }
+}
